@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <CommunityApplications>
   <Profile>
-Unraid templates from Backstage Coding. **Sara** is a self-hosted AI companion and coding partner: chat with memory, a planner, coding tools, photos and voice, on your own server, with the AI model you choose (Ollama or your own provider account). MIT licensed. Support: GitHub issues at https://github.com/farena-ai/sara/issues
+Unraid templates from Backstage Coding. Sara is a self-hosted AI companion and coding partner: chat with memory, a planner, coding tools, photos and voice, on your own server, with the AI model you choose (Ollama or your own provider account). MIT licensed. Support: GitHub issues at https://github.com/farena-ai/sara/issues
   </Profile>
   <Icon>https://raw.githubusercontent.com/farena-ai/unraid-templates/main/icon.png</Icon>
   <WebPage>https://github.com/farena-ai/sara</WebPage>
